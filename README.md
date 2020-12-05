@@ -29,6 +29,8 @@
 
 ## Table of Contents
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7c2aba42c3334796b040f2c86ca33933)](https://app.codacy.com/gh/Discobots-1104A/2020-2021-bionic-beaver?utm_source=github.com&utm_medium=referral&utm_content=Discobots-1104A/2020-2021-bionic-beaver&utm_campaign=Badge_Grade)
+
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
